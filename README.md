@@ -34,7 +34,7 @@ O P95 medido foi de aproximadamente 3670 ms, que está muito acima da meta de 50
 
 **Status final:** **REPROVADO**
 
-![Evidência do teste de desempenho](./desempenho.png)
+![Evidência do teste de desempenho](desempenho.png)
 
 
 * * *
@@ -56,7 +56,7 @@ O P95 medido foi de aproximadamente 3670 ms, que está muito acima da meta de 50
 
 **Status final:** **REPROVADO**
 
-![Evidência do teste de carga](./carga.png)
+![Evidência do teste de carga](carga.png)
 
 
 * * *
@@ -87,7 +87,7 @@ Como não houve nenhuma resposta bem-sucedida, consideramos que o sistema entrou
 
 **Status final:** **REPROVADO**
 
-![Evidência do teste de estresse](./estresse.png)
+![Evidência do teste de estresse](estresse.png)
 
 * * *
 
@@ -111,7 +111,7 @@ Com eficiência de 90,00% (≥ 80%), a aplicação escala bem ao adicionar servi
 
 **Status final:** **APROVADO**
 
-![Evidência do teste de escalabilidade](./escalabilidade.png)
+![Evidência do teste de escalabilidade](escalabilidade.png)
 
 
 * * *
@@ -141,4 +141,5 @@ Para validar totalmente a meta de segurança da atividade (bloquear acima de ~10
 
 **Status final (parcial observado):** **REPROVADO**
 
-![Evidência do teste de segurança](./seguranca.png)
+![Evidência do teste de segurança](seguranca.png)
+
