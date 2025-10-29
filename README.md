@@ -34,7 +34,7 @@ O P95 medido foi de aproximadamente 3670 ms, que está muito acima da meta de 50
 
 **Status final:** **REPROVADO**
 
-![Evidência do teste de desempenho](desempenho.png)
+<img width="450" height="472" alt="image" src="https://github.com/user-attachments/assets/6b807dea-2830-4dac-a065-2a0ac2aa4991" />
 
 
 * * *
@@ -56,7 +56,7 @@ O P95 medido foi de aproximadamente 3670 ms, que está muito acima da meta de 50
 
 **Status final:** **REPROVADO**
 
-![Evidência do teste de carga](carga.png)
+<img width="938" height="616" alt="image" src="https://github.com/user-attachments/assets/bf3b3022-9944-46ef-8f8d-282cf321b3e6" />
 
 
 * * *
@@ -87,7 +87,8 @@ Como não houve nenhuma resposta bem-sucedida, consideramos que o sistema entrou
 
 **Status final:** **REPROVADO**
 
-![Evidência do teste de estresse](estresse.png)
+<img width="919" height="264" alt="image" src="https://github.com/user-attachments/assets/dc0f65f6-13f5-4116-b15d-77f329ca6339" />
+
 
 * * *
 
@@ -111,7 +112,7 @@ Com eficiência de 90,00% (≥ 80%), a aplicação escala bem ao adicionar servi
 
 **Status final:** **APROVADO**
 
-![Evidência do teste de escalabilidade](escalabilidade.png)
+<img width="321" height="59" alt="image" src="https://github.com/user-attachments/assets/dfa48e30-4309-459c-b8ce-ee52e483da6c" />
 
 
 * * *
@@ -141,5 +142,4 @@ Para validar totalmente a meta de segurança da atividade (bloquear acima de ~10
 
 **Status final (parcial observado):** **REPROVADO**
 
-![Evidência do teste de segurança](seguranca.png)
-
+<img width="516" height="617" alt="image" src="https://github.com/user-attachments/assets/6dc40555-0f16-40f3-91d5-eb8bf5bdcda0" />
